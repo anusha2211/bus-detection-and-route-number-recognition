@@ -1,1 +1,3 @@
-# bus-detection-and-route-number-recognition
+### bus-detection-and-route-number-recognition
+
+A  programmed bus detector and route number peruser. This system (1) inputs camera images which are provided to the software solution which firstly (2) extracts the relevant features and (3) uses adequate classifiers to detect whether or not a local bus is present in the image and based on that prediction, (4) further recognizes the route number of the detected bus. The proposed system serves the public transport travel related needs of the visually impaired by assisting them in detecting approaching buses and recognizing route numbers from the captured images.
